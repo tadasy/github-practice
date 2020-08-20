@@ -6,3 +6,5 @@ githubの練習
 * squash
 
 など
+
+hoge
