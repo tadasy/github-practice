@@ -10,3 +10,4 @@ githubの練習
 test
 
 huge
+hoge
