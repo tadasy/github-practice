@@ -2,3 +2,5 @@ taro.txt
 hoge
 aaa
 bbb
+ccc
+ddd
