@@ -8,3 +8,4 @@ githubの練習
 など
 
 hoge
+test
